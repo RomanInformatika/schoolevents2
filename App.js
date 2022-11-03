@@ -40,6 +40,10 @@ export default function App() {
   };
 
   const data2 = [{ Address: 'tt' }, { Address: 'tt2' }]
+  
+  const getAccess = (AccessCode)=>{
+    return 0
+  }
 
   return (
     // <View style={styles.container}>
