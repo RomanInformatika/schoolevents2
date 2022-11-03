@@ -1,8 +1,12 @@
 {
-    "posts": [
+    "users": [
       {
         "id": 1,
-        "title": "hello"
+        "code": "123456789"
+      },
+      {
+        "id": 2,
+        "code": "9876543210"
       }
     ],
     "profile": {
